@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christianskovly
 - 👀 I’m interested in ... UX/UI + App development, blockchain, Raspi/Arduino development
 - 🌱 I’m currently learning ... Javascript, Node.JS, CSS, HTML + REACT
-- 💞️ I’m looking to collaborate on ... microchain development, model rocket hardware/software
+- 💞️ I’m looking to collaborate on ... micro-blockchain development, model rocket hardware/software
 - 📫 How to reach me ... 
 
 <!---
