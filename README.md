@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianskovly
 - 👀 I’m interested in ... UX/UI + App development, blockchain, AI, Rocketry, Raspi/Arduino development
-- 🌱 I’m currently learning ... Javascript, CSS, PYTHON, REACT + Node.js / low.js, MongoDB, PyTorch / TensorFlow
+- 🌱 I’m currently learning ... Java, Javascript, CSS, PYTHON, REACT + Node.js, AWS Cloud services
 - 💞️ I’m looking to collaborate on ... micro-blockchain development, model rocket hardware/software, AI Txt2Speech
 - 📫 How to reach me ...
 -     christian.skovly@gmail.com
